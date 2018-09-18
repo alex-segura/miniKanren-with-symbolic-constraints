@@ -35,6 +35,12 @@ For example, `(run (q r s) (== (cons r q) s))`.
 (load "mk-chicken.scm")
 ```
 
+### Gerbil
+
+```
+(load "mk-gerbil.ss")
+```
+
 ## Running Tests
 
 After loading miniKanren as above,
